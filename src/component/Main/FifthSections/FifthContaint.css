@@ -1,0 +1,106 @@
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../../../images/home/fitn__cauwwcyyn9hy_large.jpg");
+
+  height: 580px;
+  background-size: 1154px 344px;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../../../images/home/promo_tile_discjockey__bjgd67g75hsi_large.jpg");
+  background-color: #fbfbfd;
+  height: 580px;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: 1262px 580px;
+  z-index: 50;
+}
+.fifth-heghlight-wrapper .left-side-wrapper .description-wraper {
+  font-size: 19px;
+  margin: 0 20%;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .description-wraper {
+  font-size: 19px;
+  padding-top: 10px;
+  margin: 0 20%;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .title-wraper {
+  background-image: url("../../../images/icons/logo__dcojfwkzna2q_large_2x.png");
+  padding-top: 40px;
+  background-position: bottom;
+  height: 28px;
+  background-size: 226px 33px;
+  background-repeat: no-repeat;
+}
+.fifth-heghlight-wrapper .left-side-wrapper .title-wraper {
+  background-image: url("../../../images/icons/logo__fit_large.png");
+  padding-top: 55px;
+  background-position: center;
+  height: 28px;
+  background-size: 174px 33px;
+  background-repeat: no-repeat;
+}
+/* .fifth-heghlight-wrapper .right-side-wrapper .description-wraper {
+  font-size: 19px;
+} */
+.fifth-heghlight-wrapper .right-side-wrapper .links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 400;
+  content: "\f144";
+
+  padding-left: 10px;
+}
+.fifth-heghlight-wrapper
+  .right-side-wrapper
+  .links-wrapper
+  ul
+  li:last-child
+  a:after {
+  font-family: "FontAwesome";
+  font-weight: 400;
+  content: "\f105";
+
+  padding-left: 10px;
+}
+.fifth-heghlight-wrapper
+  .left-side-wrapper
+  .links-wrapper
+  ul
+  li:last-child
+  a:after {
+  content: none;
+}
+
+@media (min-width: 768px) {
+  .fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+    margin: 5px 5px 5px 10px;
+  }
+  .fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    margin: 5px 10px 5px 5px;
+  }
+}
+
+@media only screen and (max-width: 1068px) {
+  .fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/promo_tile_discjockey__bjgd67g75hsi_medium.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    z-index: 10;
+  }
+}
+
+@media only screen and (max-width: 734px) {
+  .fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/promo_tile_discjockey__bjgd67g75hsi_small.jpg");
+    height: 548px;
+    background-size: 734px 548px;
+    background-repeat: no-repeat;
+
+    z-index: 10;
+  }
+}

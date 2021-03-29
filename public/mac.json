@@ -1,0 +1,37 @@
+{
+    "products":[
+        {
+          "Id": "MacBookPro13",
+          "img": "https://www.apple.com/v/mac/home/bb/images/overview/hero/dark/macbook_pro_13__ft1pc3lqwd6y_large_2x.jpg",
+          "Url": "https://www.apple.com/macbook-pro-13/",
+          "Title": "MacBook Pro",
+          "Brief": "Power. Moves..",
+          "PriceRange": "13-inch model",
+          "Alert": "New"
+         
+         
+          
+        },
+        {
+          "Id": "MacBookPro16",
+          "img": "https://www.apple.com/v/macbook-pro-16/c/images/overview/display_hero_hw__d73ne9vbdmgm_large_2x.jpg",
+          "Url": "https://www.apple.com/macbook-pro-16/",
+          "Title": "MacBook Pro",
+          "Brief": "The best for the brightest.",
+          "PriceRange": "16-inch model"
+        
+          
+        },
+        {
+            "Id": "MacBookAir",
+            "img": "https://www.apple.com/v/macbook-air/j/images/overview/hero_endframe__ea0qze85eyi6_medium_2x.jpg",
+            "Url": "https://www.apple.com/macbook-air/",
+            "Title": "MacBook Air",
+            "Brief": "Light. Speed.",
+          
+            "Alert": "New"
+            
+          }
+        
+      ]
+  }

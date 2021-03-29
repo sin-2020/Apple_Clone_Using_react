@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+          "Id": " iPad Pro",
+          "img": "https://www.apple.com/v/ipad/compare/w/images/overview/ipad_pro_12_9_4th_gen_silver__df4q6o2ewaaa_large_2x.jpg",
+          "Url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
+          "Title": " iPad Pro",
+          "Brief": "Your next computer is not a computer",
+          "PriceRange": "12.9-inch ",
+          "Alert": "New"
+         
+         
+          
+        },
+        {
+          "Id": "MagicKeyboard",
+          "img": "https://www.apple.com/v/ipad-keyboards/e/images/overview/magic_keyboard__cltp6qhdpln6_large_2x.png",
+          "Url": "https://www.apple.com/shop/select-ipad-keyboards",
+          "Title": "Magic Keyboard for iPad Air ",
+          "Brief": "The best for the brightest.",
+          "PriceRange": " "
+        
+          
+        }
+        
+        
+      ]
+  }

@@ -1,0 +1,94 @@
+.fourth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("../../../images/home/macbook_air__knzp0i282eyy_large.jpg");
+  height: 560px;
+  background-color: #000;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("../../../images/home/mlg_large.jpg");
+  height: 560px;
+  background-position: bottom;
+  padding-top: 40px;
+  margin: 0 0 10px 0;
+  background-size: 558px 341px;
+  background-color: white;
+  z-index: 10;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .title-wraper {
+  background-image: url("../../../images/icons/logo__one_small_2x.png");
+  padding: 35px 0 10px;
+  background-position: center;
+
+  background-size: 130px 33px;
+  background-repeat: no-repeat;
+}
+.fourth-heghlight-wrapper .left-side-wrapper .title-wraper {
+  padding-top: 20px;
+  font-size: 40px;
+}
+.fourth-heghlight-wrapper .right-side-wrapper .description-wraper {
+  font-size: 19px;
+  text-align: center;
+  max-width: 280px;
+  margin: 0 auto;
+}
+.fourth-heghlight-wrapper .left-side-wrapper .description-wraper {
+  font-size: 19px;
+}
+@media (min-width: 768px) {
+  .fourth-heghlight-wrapper .left-side-wrapper .left-side-container {
+    margin: 10px 5px 5px 10px;
+  }
+  .fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    margin: 10px 10px 5px 5px;
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/mlg_medium.jpg");
+
+    background-size: 378px 274px;
+    background-repeat: no-repeat;
+    background-color: white;
+    z-index: 10;
+  }
+}
+@media only screen and (max-width: 734px) {
+  .fourth-heghlight-wrapper .right-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/mlg_small.jpg");
+
+    background-size: 346px 295px;
+    background-repeat: no-repeat;
+    background-color: white;
+    z-index: 10;
+  }
+  .fourth-heghlight-wrapper .right-side-wrapper .title-wraper {
+    background-image: url("../../../images/icons/logo__one_small_2x.png");
+    padding-top: 40px;
+    background-position: center;
+    background-size: 108px 27px;
+    background-repeat: no-repeat;
+  }
+}
+@media only screen and (max-width: 1068px) {
+  .fourth-heghlight-wrapper .left-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/macbook_air__knzp0i282eyy_medium.jpg");
+
+    background-size: 207px 333px;
+    background-repeat: no-repeat;
+    background-color: #000;
+    z-index: 10;
+  }
+}
+@media only screen and (max-width: 734px) {
+  .fourth-heghlight-wrapper .left-side-wrapper .right-side-container {
+    background-image: url("../../../images/home/macbook_air__knzp0i282eyy_small.jpg");
+
+    background-size: 207px 333px;
+    background-repeat: no-repeat;
+    background-color: #000;
+    z-index: 10;
+  }
+}

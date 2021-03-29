@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25c715df.chunk.css",
+    "main.js": "/static/js/main.646d674d.chunk.js",
+    "main.js.map": "/static/js/main.646d674d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94f234d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94f234d9.js.map",
+    "static/js/2.fc13cc42.chunk.js": "/static/js/2.fc13cc42.chunk.js",
+    "static/js/2.fc13cc42.chunk.js.map": "/static/js/2.fc13cc42.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9157dbc957f26ea3439fa0108925d28d.js": "/precache-manifest.9157dbc957f26ea3439fa0108925d28d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.25c715df.chunk.css.map": "/static/css/main.25c715df.chunk.css.map",
+    "static/js/2.fc13cc42.chunk.js.LICENSE.txt": "/static/js/2.fc13cc42.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/static/media/search.8dd1210f.svg",
+    "static/media/SixthContaint.css": "/static/media/small_card.08ee934d.jpg",
+    "static/media/FifthContaint.css": "/static/media/promo_tile_discjockey__bjgd67g75hsi_small.2fa506c2.jpg",
+    "static/media/ThirdContaint.css": "/static/media/verti.0d424163.jpg",
+    "static/media/FirstContaint.css": "/static/media/iphone_12_small.8692efea.jpg",
+    "static/media/SecondContaint.css": "/static/media/iphone_12_pro_small.7c21c68b.jpg",
+    "static/media/FourthContaint.css": "/static/media/mlg_small.0eeb7624.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f234d9.js",
+    "static/js/2.fc13cc42.chunk.js",
+    "static/css/main.25c715df.chunk.css",
+    "static/js/main.646d674d.chunk.js"
+  ]
+}
